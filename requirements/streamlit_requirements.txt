@@ -1,0 +1,21 @@
+# Streamlit
+streamlit==1.28.0
+streamlit-option-menu==0.3.6
+
+# PyTorch
+torch==2.0.1
+torchvision==0.15.2
+
+# Image Processing
+Pillow==10.0.0
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization
+plotly==5.17.0
+matplotlib==3.7.1
+
+# Database
+sqlite3
