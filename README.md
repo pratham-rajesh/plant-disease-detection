@@ -160,7 +160,7 @@ Production-ready Gradio interface with all features
 - LLM chatbot integration
 - Research paper retrieval
 
-📓 **[Demo Application (Colab)](LINK_TO_DEMO_NOTEBOOK)**
+📓 **[Demo Application (Colab)](https://colab.research.google.com/drive/1nel1bcv1NrEFUYtDuLRfm9uCFCM1ucCr?usp=sharing)**
 
 ### 🤖 Trained Model
 Pre-trained MobileNetV2 model (H5 format, ~14 MB)
