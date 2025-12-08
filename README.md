@@ -139,7 +139,7 @@ PowerPoint presentation covering all project aspects
 ### 📄 Project Report
 Comprehensive 25-page academic report with 10 figures
 
-📖 **[Read Full Report (PDF)](LINK_TO_PDF)**  
+📖 **[Read Full Report](https://docs.google.com/document/d/1sHKokJdhD-La5g9CH-0c5yVa6yNR-5u3WRUqFZoyduY/edit?usp=sharing)**  
 
 ### 💻 Source Code & Notebooks
 
