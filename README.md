@@ -166,7 +166,7 @@ Production-ready Gradio interface with all features
 Pre-trained MobileNetV2 model (H5 format, ~14 MB)
 
 
-### 📊 CRISP-DM Artifacts
+### 📊 CRISP-DM Artifacts(please look at the files for the arifact readme)
 
 #### Business Understanding
 - Problem definition and objectives
