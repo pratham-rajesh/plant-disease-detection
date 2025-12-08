@@ -163,16 +163,12 @@ Complete model training with CRISP-DM methodology
 - Comprehensive evaluation
 - Ablation study
 
-📓 **[Training Notebook (Colab)](#)** *(Add your link)*
-
 #### Demo Application
 Production-ready Gradio interface
 - Disease detection with Grad-CAM
 - Treatment recommendations
 - LLM chatbot (Groq + Llama-3-8B)
 - Research paper retrieval
-
-📓 **[Demo Application (Colab)](#)** *(Add your link)*
 
 ### 🤖 Trained Model
 - **File**: `plant_disease_model_final.h5`
