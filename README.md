@@ -129,7 +129,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 **Duration**: 12 minutes  
 **Content**: Project demo, methodology explanation, results showcase, deployment walkthrough
 
-📹 **[Watch Video Presentation](LINK_TO_VIDEO)**
+📹 **[Watch Video Presentation](https://youtu.be/-XUKU6jTzc0)**
 
 ### 📊 Presentation Deck
 PowerPoint presentation covering all project aspects
