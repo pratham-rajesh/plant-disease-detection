@@ -134,7 +134,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 ### 📊 Presentation Deck
 PowerPoint presentation covering all project aspects
 
-📑 **[View Presentation Slides](LINK_TO_PPTX)**
+📑 **[View Presentation Slides](https://docs.google.com/presentation/d/1p1nDEBM0EXoQZKupcWf8gTrVdJUVkbCmnag_07IO3iM/edit?usp=sharing)**
 
 ### 📄 Project Report
 Comprehensive 25-page academic report with 10 figures
