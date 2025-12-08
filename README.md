@@ -150,7 +150,7 @@ Complete model training with CRISP-DM methodology
 - Comprehensive evaluation and metrics
 - All visualizations (10+ figures)
 
-📓 **[Training Notebook (Colab)](LINK_TO_TRAINING_NOTEBOOK)**
+📓 **[Training Notebook (Colab)](https://colab.research.google.com/drive/1ptIRrEyHg90OsnhJgfq8TYRU0ggWeROe?usp=sharing)**
 
 #### Demo Application Notebook
 Production-ready Gradio interface with all features
@@ -165,7 +165,6 @@ Production-ready Gradio interface with all features
 ### 🤖 Trained Model
 Pre-trained MobileNetV2 model (H5 format, ~14 MB)
 
-💾 **[Download Model](LINK_TO_MODEL_FILE)**
 
 ### 📊 CRISP-DM Artifacts
 
