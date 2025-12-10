@@ -12,6 +12,26 @@
 
 ---
 
+## 📦 Project Deliverables
+
+### 🎥 Video Presentation
+**Duration**: 12 minutes  
+**Content**: Project demo, methodology explanation, results showcase, deployment walkthrough
+
+📹 **[Watch Video Presentation](https://youtu.be/-XUKU6jTzc0)**
+
+### 📊 Presentation Deck
+PowerPoint presentation covering all project aspects
+
+📑 **[View Presentation Slides](https://docs.google.com/presentation/d/1p1nDEBM0EXoQZKupcWf8gTrVdJUVkbCmnag_07IO3iM/edit?usp=sharing)**
+
+### 📄 Project Report
+Comprehensive academic report 
+
+📖 **[Read Full Report](https://github.com/pratham-rajesh/plant-disease-detection/blob/main/Project_Report.pdf)**  
+
+---
+
 ## 📋 Table of Contents
 
 - [Abstract](#abstract)
@@ -136,25 +156,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 
 ---
 
-## 📦 Project Deliverables
-
-### 🎥 Video Presentation
-**Duration**: 12 minutes  
-**Content**: Project demo, methodology explanation, results showcase, deployment walkthrough
-
-📹 **[Watch Video Presentation](https://youtu.be/-XUKU6jTzc0)**
-
-### 📊 Presentation Deck
-PowerPoint presentation covering all project aspects
-
-📑 **[View Presentation Slides](https://docs.google.com/presentation/d/1p1nDEBM0EXoQZKupcWf8gTrVdJUVkbCmnag_07IO3iM/edit?usp=sharing)**
-
-### 📄 Project Report
-Comprehensive 25-page academic report with 10 figures
-
-📖 **[Read Full Report](https://github.com/pratham-rajesh/plant-disease-detection/blob/main/Project_Report.pdf)**  
-
-### 💻 Source Code & Notebooks
+## 💻 Source Code & Notebooks
 
 #### Training Notebook
 Complete model training with CRISP-DM methodology
